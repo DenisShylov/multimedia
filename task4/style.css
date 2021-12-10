@@ -24,7 +24,7 @@
   height: 50px;
   filter: opacity(0.5);
   cursor: pointer;
-  padding: 16px;
+  padding: 10px;
 }
 .image-button:hover {
   filter: opacity(1);
