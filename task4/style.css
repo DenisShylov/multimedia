@@ -23,7 +23,7 @@
   font-weight: 700;
   text-transform: uppercase;
   height: 50px;
-
+  width: 200px;
   filter: opacity(0.5);
   cursor: pointer;
 }
